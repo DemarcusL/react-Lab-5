@@ -1,20 +1,20 @@
 {
     "basic_info": {
       "name": "Demarcus Lester",
-      "titles": [ "Software Developer" ],
+      "titles": [ " Learning Javascript, React, Full-stack front & back-end Software Development " ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/DemarcusL",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/demarcus-lester-6a3b27184/",
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "myProfileDL.jpg"
     },
     "skills": {
       "icons": [
